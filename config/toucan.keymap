@@ -54,7 +54,7 @@
 
     Function_layer {
       bindings = <
-        &none &kp F9 &kp F10 &kp F11 &kp F12 &none &none &none &none &none &none &bootloader &tog BASE &kp F5 &kp F6 &kp F7 &kp F8 &none &none &kp LEFT_SHIFT &kp LEFT_CONTROL &kp LEFT_ALT &kp LEFT_GUI &reset &tog QWERTY &kp F1 &kp F2 &kp F3 &kp F4 &none &none &none &none &none &none &none &none &none &none &none &none &trans 
+        &none &kp F9 &kp F10 &kp F11 &kp F12 &none &none &none &none &none &none &bootloader &tog BASE &kp F5 &kp F6 &kp F7 &kp F8 &none &none &kp LEFT_SHIFT &kp LEFT_CONTROL &kp LEFT_ALT &kp LEFT_GUI &bootloader &tog QWERTY &kp F1 &kp F2 &kp F3 &kp F4 &none &none &none &none &none &none &none &none &none &none &none &none &trans 
       >;
     };
 
